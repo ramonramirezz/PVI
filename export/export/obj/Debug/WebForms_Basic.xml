@@ -1,0 +1,292 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+export
+</name>
+</assembly>
+<members>
+<member name="F:export.Register.ErrorMessage">
+	<summary>
+Control ErrorMessage.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Register.UserNameCtrl">
+	<summary>
+Control UserNameCtrl.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Register.Password">
+	<summary>
+Control de contraseña.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Register.ConfirmPassword">
+	<summary>
+Control confirmPassword.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Login.ErrorMessage">
+	<summary>
+Control ErrorMessage.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Login.FailureText">
+	<summary>
+Control FailureText.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Login.UserName">
+	<summary>
+Control userName.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Login.Password">
+	<summary>
+Control de contraseña.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Login.RememberMe">
+	<summary>
+Control RememberMe.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Login.RegisterHyperLink">
+	<summary>
+Control RegisterHyperLink.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Login.OpenAuthLogin">
+	<summary>
+Control OpenAuthLogin.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.OpenAuthProviders.providerDetails">
+	<summary>
+Control providerDetails.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.RegisterExternalLogin.userName">
+	<summary>
+Control userName.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Manage.SuccessMessagePlaceHolder">
+	<summary>
+ Control SuccessMessagePlaceHolder.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:export.Manage.setPassword">
+	<summary>
+ Control setPassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:export.Manage.password">
+	<summary>
+ contraseña de control.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:export.Manage.confirmPassword">
+	<summary>
+ Control confirmPassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:export.Manage.changePasswordHolder">
+	<summary>
+ Control changePasswordHolder.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:export.Manage.changePasswordUserName">
+	<summary>
+ Control changePasswordUserName.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:export.Manage.CurrentPasswordLabel">
+	<summary>
+ Control CurrentPasswordLabel.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:export.Manage.CurrentPassword">
+	<summary>
+ Control CurrentPassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:export.Manage.NewPasswordLabel">
+	<summary>
+ Control NewPasswordLabel.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:export.Manage.NewPassword">
+	<summary>
+ Control NewPassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:export.Manage.ConfirmNewPasswordLabel">
+	<summary>
+ Control ConfirmNewPasswordLabel.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="F:export.Manage.ConfirmNewPassword">
+	<summary>
+ Control ConfirmNewPassword.
+ </summary>
+	<remarks>
+ Campo generado automáticamente.
+ Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+ </remarks>
+</member><member name="P:export.My.MyWebExtension.Computer">
+	<summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member><member name="P:export.My.MyWebExtension.User">
+	<summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member><member name="P:export.My.MyWebExtension.Request">
+	<summary>
+ Devuelve un objeto Request.
+ </summary>
+</member><member name="P:export.My.MyWebExtension.Response">
+	<summary>
+ Devuelve un objeto Response.
+ </summary>
+</member><member name="P:export.My.MyWebExtension.Log">
+	<summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member><member name="T:export.My.MyWebExtension">
+	<summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:export.Site_Mobile.Head1">
+	<summary>
+Control Head1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Site_Mobile.HeadContent">
+	<summary>
+Control HeadContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Site_Mobile.form1">
+	<summary>
+control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Site_Mobile.FeaturedContent">
+	<summary>
+Control FeaturedContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Site_Mobile.MainContent">
+	<summary>
+Control MainContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Site_Mobile.ViewSwitcher1">
+	<summary>
+Control ViewSwitcher1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.SiteMaster.MainContent">
+	<summary>
+Control MainContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+</members>
+</doc>
