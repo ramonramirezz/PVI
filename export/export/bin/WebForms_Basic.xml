@@ -6,39 +6,7 @@ export
 </name>
 </assembly>
 <members>
-<member name="F:export.Register.ErrorMessage">
-	<summary>
-Control ErrorMessage.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:export.Register.UserNameCtrl">
-	<summary>
-Control UserNameCtrl.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:export.Register.Password">
-	<summary>
-Control de contraseña.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:export.Register.ConfirmPassword">
-	<summary>
-Control confirmPassword.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="P:export.My.MyWebExtension.Computer">
+<member name="P:export.My.MyWebExtension.Computer">
 	<summary>
  Devuelve información sobre el equipo host.
  </summary>
@@ -63,6 +31,14 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
  Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
  </summary>
 	<remarks></remarks>
+</member><member name="F:export.SiteMaster.MainContent">
+	<summary>
+Control MainContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
 </member><member name="F:export.Login.ErrorMessage">
 	<summary>
 Control ErrorMessage.
@@ -119,9 +95,65 @@ Control OpenAuthLogin.
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
+</member><member name="F:export.RegisterExternalLogin.userName">
+	<summary>
+Control userName.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
 </member><member name="F:export.OpenAuthProviders.providerDetails">
 	<summary>
 Control providerDetails.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Site_Mobile.Head1">
+	<summary>
+Control Head1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Site_Mobile.HeadContent">
+	<summary>
+Control HeadContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Site_Mobile.form1">
+	<summary>
+control form1.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Site_Mobile.FeaturedContent">
+	<summary>
+Control FeaturedContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Site_Mobile.MainContent">
+	<summary>
+Control MainContent.
+</summary>
+	<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member><member name="F:export.Site_Mobile.ViewSwitcher1">
+	<summary>
+Control ViewSwitcher1.
 </summary>
 	<remarks>
 Campo generado automáticamente.
@@ -223,65 +255,33 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
  Campo generado automáticamente.
  Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
  </remarks>
-</member><member name="F:export.Site_Mobile.Head1">
+</member><member name="F:export.Register.ErrorMessage">
 	<summary>
-Control Head1.
+Control ErrorMessage.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:export.Site_Mobile.HeadContent">
+</member><member name="F:export.Register.UserNameCtrl">
 	<summary>
-Control HeadContent.
+Control UserNameCtrl.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:export.Site_Mobile.form1">
+</member><member name="F:export.Register.Password">
 	<summary>
-control form1.
+Control de contraseña.
 </summary>
 	<remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
-</member><member name="F:export.Site_Mobile.FeaturedContent">
+</member><member name="F:export.Register.ConfirmPassword">
 	<summary>
-Control FeaturedContent.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:export.Site_Mobile.MainContent">
-	<summary>
-Control MainContent.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:export.Site_Mobile.ViewSwitcher1">
-	<summary>
-Control ViewSwitcher1.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:export.SiteMaster.MainContent">
-	<summary>
-Control MainContent.
-</summary>
-	<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member><member name="F:export.RegisterExternalLogin.userName">
-	<summary>
-Control userName.
+Control confirmPassword.
 </summary>
 	<remarks>
 Campo generado automáticamente.
