@@ -1,0 +1,129 @@
+﻿*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana;
+     }
+header{
+    width: 1366px;
+    height: 130px;    
+    background-image: url('imagenes/head.jpg');
+}
+h1{
+    color: rgb(63, 209, 209);
+    font-size: 50px;
+    text-align: center;
+    padding-top: 15px;
+}
+h2{
+    color: rgb(225, 33, 56);
+    font-size: 30px;
+    text-align: center;
+}
+div.menu{  
+    margin: auto;
+    width: 1200px;
+    height: 180px;             
+}
+div.contenedor{      
+    width: 200px;
+    height: 150px;
+    float: left;
+    -webkit-transition: height .5s;
+}
+div#uno{
+    background-color: red;
+}
+div#dos{
+    background-color: #00ff21;
+}
+div#tres{
+    background-color: #0026ff;
+}
+div#cuatro{
+    background-color: #ffd800;
+}
+div#cinco{
+    background-color: #b200ff;
+}
+div#seis{
+    background-color: #ff006e;
+}
+img.icon{
+    display: block;
+    margin: 20px auto;
+    background-color: rgba(255, 255, 255, 0.35);
+    width: 40px;
+    padding: 20px;
+    -webkit-border-radius: 50%;
+    -webkit-box-shadow: 0px 0px 0px 30px rgba(255, 255, 255, 0);
+    -webkit-transition: box-shadow 0.5s;
+}
+p.texto{
+    font-size: 1em;
+    color: white;
+    text-align: center;
+    padding-top: 0px;
+    opacity: 0.75;
+    -webkit-transition: padding-top 0.5s;         
+}
+div.contenedor:hover{
+    height: 175px;
+}
+div.contenedor:hover p.texto{
+    padding-top: 30px;
+    opacity: 1;
+}
+div.contenedor:hover img.icon{
+     -webkit-box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 0.6);
+}
+/*Parte del Slider de imagenes*/
+.imagenslide{
+	width:50%;
+	max-width:1000px;
+	margin:20px auto;
+}
+.slides {
+	width:100%;
+}
+ 
+.slides img {
+	width:100%;
+}
+.slidesjs-pagination {
+	background:#424242;
+	list-style:none;
+	overflow:hidden;
+}
+ 
+.slidesjs-pagination li {
+	float:left;
+}
+ 
+.slidesjs-pagination li a {
+	display:block;
+	padding:10px 20px;
+	color:#fff;
+	text-decoration:none;
+}
+ 
+.slidesjs-pagination li a:hover {
+	background:#000;
+}
+ 
+.slides .active {
+	background:#000;
+}
+.slidesjs-navigation{
+	background:#000;
+	color:#fff;
+	text-decoration:none;
+	display:inline-block;
+	padding:13.5px 20px;
+	float:right;
+}
+body {
+   background-image: url('imagenes/backg.png');
+   background-size: 100% 100%;
+   background-attachment: fixed;   
+}
+ 

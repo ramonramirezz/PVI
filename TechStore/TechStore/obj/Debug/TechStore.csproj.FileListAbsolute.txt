@@ -1,0 +1,6 @@
+C:\Users\Alan\Documents\GitHub\PVI\TechStore\TechStore\bin\TechStore.dll.config
+C:\Users\Alan\Documents\GitHub\PVI\TechStore\TechStore\bin\TechStore.dll
+C:\Users\Alan\Documents\GitHub\PVI\TechStore\TechStore\bin\TechStore.pdb
+C:\Users\Alan\Documents\GitHub\PVI\TechStore\TechStore\obj\Debug\TechStore.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\GitHub\PVI\TechStore\TechStore\obj\Debug\TechStore.dll
+C:\Users\Alan\Documents\GitHub\PVI\TechStore\TechStore\obj\Debug\TechStore.pdb

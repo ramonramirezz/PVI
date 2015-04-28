@@ -65,12 +65,27 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Estilos.css" />
+    <Content Include="imagenes\backg.png" />
+    <Content Include="imagenes\cinco.jpg" />
+    <Content Include="imagenes\cuatro.jpg" />
+    <Content Include="imagenes\dos.jpg" />
+    <Content Include="imagenes\iphone4.jpg" />
+    <Content Include="imagenes\iphone5.jpg" />
+    <Content Include="imagenes\iphone6.jpg" />
+    <Content Include="imagenes\seis.jpg" />
+    <Content Include="imagenes\tres.jpg" />
+    <Content Include="imagenes\uno.jpg" />
+    <Content Include="imagenes\head.jpg" />
     <Content Include="index.html" />
+    <Content Include="js\jquery.slides.js" />
+    <Content Include="js\jquery.slides.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

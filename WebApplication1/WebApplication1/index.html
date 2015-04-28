@@ -2,44 +2,33 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>TechStore</title>
-    <link href="Estilos.css" rel="stylesheet" />
+    <link href="estilos.css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="js/script.js"></script>
+    <title></title>
 </head>
-<body>    
+<body>
     <header>
-      <h1>Tech Store</h1>
-        <h2>La mejor manera de comprar tecnologia</h2>
+        <nav>
+            <ul>
+                <a href="http://www.google.com"><li>Inicio</li></a>
+                <a href="http://localhost:2946/index.html"><li>Productos</li></a>
+                <a href="http://localhost:2946/index.html"><li>Ofertas</li></a>
+            </ul>
+            <img id="logo" src="imagenes/logoo.png">
+            <ul>
+                <a href="http://localhost:2946/index.html"><li>Carrito</li></a>
+                <a href="http://localhost:2946/index.html"><li>Contactanos</li></a>
+                <a href="index.html"><li>Login</li></a>
+            </ul>
+        </nav>
     </header>
-        <div class="menu">
-            <div class="contenedor" id="uno">
-                <img class="icon" src="imagenes/uno.jpg">
-                <p class="texto">Inicio</p>
-            </div>
-            <div class="contenedor" id="dos">
-                <img class="icon" src="imagenes/dos.jpg">
-                <p class="texto">Productos</p>
-            </div>
-            <div class="contenedor" id="tres">
-                <img class="icon" src="imagenes/tres.jpg">
-                <p class="texto">Nosotros</p>
-            </div>
-            <div class="contenedor" id="cuatro">
-                <img class="icon" src="imagenes/cuatro.jpg">
-                <p class="texto">Contactanos</p>
-            </div>
-            <div class="contenedor" id="cinco">
-                <img class="icon" src="imagenes/cinco.jpg">
-                <p class="texto">Facebook</p>
-            </div>
-            <div class="contenedor" id="seis">
-                <img class="icon" src="imagenes/seis.jpg">
-                <p class="texto">Twitter</p>
-            </div>
-        </div>
+    <section id="fondo"></section>
+
     <div class="imagenslide">
         <div class="slides">
-            <img src="imagenes/iphone4.jpg">        
-            <img src="imagenes/iphone5.jpg">               
+            <img src="imagenes/iphone4.jpg">
+            <img src="imagenes/iphone5.jpg">
             <img src="imagenes/iphone6.jpg">
         </div>
     </div>
@@ -68,5 +57,8 @@
             });
         });
     </script>
+   <footer>
+       <h1>Pagina desarrollada por Ramon y Alan</h1>
+   </footer>
 </body>
 </html>
